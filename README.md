@@ -1,6 +1,6 @@
 # CloudComputing
-#Run API
+#Run API:
 Mở CMD/Terminal Folder Service -> npm install (Cần cài NODEJS) -> npm start
 
-#Run App
+#Run App:
 Mở Folder Client -> chạy file index.html
